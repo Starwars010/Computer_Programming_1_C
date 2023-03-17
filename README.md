@@ -5,5 +5,5 @@
 ##### practice : class material
 ##### contest : Weekly assignment questions (Online Judge)
 <br><br>
-##### 2 : Data Types and Variables
-##### 3 : Function
+##### week 2 : Data Types and Variables
+##### week 3 : Function
